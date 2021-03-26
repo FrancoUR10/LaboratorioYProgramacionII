@@ -1,0 +1,7 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaFormatos\bin\Debug\PracticaFormatos.exe.config
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaFormatos\bin\Debug\PracticaFormatos.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaFormatos\bin\Debug\PracticaFormatos.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaFormatos\obj\Debug\PracticaFormatos.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaFormatos\obj\Debug\PracticaFormatos.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaFormatos\obj\Debug\PracticaFormatos.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaFormatos\obj\Debug\PracticaFormatos.pdb

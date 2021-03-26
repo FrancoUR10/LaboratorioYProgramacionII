@@ -1,0 +1,6 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio 02 guia\bin\Debug\Ejercicio 02 guia.exe.config
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio 02 guia\bin\Debug\Ejercicio 02 guia.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio 02 guia\bin\Debug\Ejercicio 02 guia.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio 02 guia\obj\Debug\Ejercicio 02 guia.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio 02 guia\obj\Debug\Ejercicio 02 guia.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio 02 guia\obj\Debug\Ejercicio 02 guia.pdb

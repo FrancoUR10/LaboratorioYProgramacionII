@@ -1,0 +1,7 @@
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_13\bin\Debug\Ejercicio_13.exe.config
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_13\bin\Debug\Ejercicio_13.exe
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_13\bin\Debug\Ejercicio_13.pdb
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_13\obj\Debug\Ejercicio_13.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_13\obj\Debug\Ejercicio_13.exe
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_13\obj\Debug\Ejercicio_13.pdb
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_13\obj\Debug\Ejercicio_13.csprojAssemblyReference.cache

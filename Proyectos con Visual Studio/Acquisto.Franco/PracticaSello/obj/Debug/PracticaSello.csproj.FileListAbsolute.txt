@@ -1,0 +1,7 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaSello\bin\Debug\PracticaSello.exe.config
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaSello\bin\Debug\PracticaSello.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaSello\bin\Debug\PracticaSello.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaSello\obj\Debug\PracticaSello.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaSello\obj\Debug\PracticaSello.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaSello\obj\Debug\PracticaSello.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaSello\obj\Debug\PracticaSello.pdb

@@ -1,0 +1,7 @@
+C:\Users\Franco\source\repos\Practicas\Validaciones\obj\Debug\Validaciones.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Practicas\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Practicas\Validaciones\bin\Debug\Validaciones.exe.config
+C:\Users\Franco\source\repos\Practicas\Validaciones\bin\Debug\Validaciones.exe
+C:\Users\Franco\source\repos\Practicas\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\Franco\source\repos\Practicas\Validaciones\obj\Debug\Validaciones.exe
+C:\Users\Franco\source\repos\Practicas\Validaciones\obj\Debug\Validaciones.pdb

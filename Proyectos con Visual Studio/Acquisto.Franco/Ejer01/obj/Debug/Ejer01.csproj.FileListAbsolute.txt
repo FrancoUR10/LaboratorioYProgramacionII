@@ -1,0 +1,7 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejer01\bin\Debug\Ejer01.exe.config
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejer01\bin\Debug\Ejer01.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejer01\bin\Debug\Ejer01.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejer01\obj\Debug\Ejer01.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejer01\obj\Debug\Ejer01.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejer01\obj\Debug\Ejer01.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejer01\obj\Debug\Ejer01.pdb

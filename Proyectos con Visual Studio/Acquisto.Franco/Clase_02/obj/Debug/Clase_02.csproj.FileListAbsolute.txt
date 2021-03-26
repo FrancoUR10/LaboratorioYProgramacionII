@@ -1,0 +1,7 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_02\bin\Debug\Clase_02.exe.config
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_02\bin\Debug\Clase_02.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_02\bin\Debug\Clase_02.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_02\obj\Debug\Clase_02.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_02\obj\Debug\Clase_02.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_02\obj\Debug\Clase_02.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_02\obj\Debug\Clase_02.pdb
