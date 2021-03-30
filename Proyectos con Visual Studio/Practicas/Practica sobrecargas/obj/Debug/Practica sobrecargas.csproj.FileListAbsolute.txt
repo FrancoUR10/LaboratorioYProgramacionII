@@ -1,0 +1,7 @@
+C:\Users\Franco\source\repos\Practicas\Practica sobrecargas\bin\Debug\Practica sobrecargas.exe.config
+C:\Users\Franco\source\repos\Practicas\Practica sobrecargas\bin\Debug\Practica sobrecargas.exe
+C:\Users\Franco\source\repos\Practicas\Practica sobrecargas\bin\Debug\Practica sobrecargas.pdb
+C:\Users\Franco\source\repos\Practicas\Practica sobrecargas\obj\Debug\Practica sobrecargas.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Practicas\Practica sobrecargas\obj\Debug\Practica sobrecargas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Practicas\Practica sobrecargas\obj\Debug\Practica sobrecargas.exe
+C:\Users\Franco\source\repos\Practicas\Practica sobrecargas\obj\Debug\Practica sobrecargas.pdb

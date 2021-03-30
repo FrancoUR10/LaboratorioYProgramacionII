@@ -26,7 +26,7 @@ namespace Ejercicio_16
             if(this.nota1 > 3 && this.nota2 > 3) 
             {
                 Random resultadoNotas = new Random();
-                this.notaFinal = resultadoNotas.Next();
+                this.notaFinal = resultadoNotas.Next(10);
             }
             else 
             {

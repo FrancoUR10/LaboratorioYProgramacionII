@@ -12,24 +12,15 @@ namespace Validaciones
         {
             Console.Title = "Validaciones";
             /*
-            int numero;
-            Validador.ValidarNumeroRango("Ingrese un numero: ",out numero, -2, 10,"Error! Reingrese el numero: ");
+            float numero;
+            Console.WriteLine(Validador.ValidarNumeros(out numero, -1, 10));
+            //Console.WriteLine(Validador.IngresarDatos(out numero));
             Console.WriteLine(numero);
-            char texto = 'B';
-            if (texto > 'A')
-            {
-                Console.WriteLine(texto);
-            }
+            string texto;
+            Console.WriteLine(Validador.ValidarSoloLetras(out texto));
             */
-            char opcion;
-            Console.WriteLine(Validador.ValidarOpcion("Elija S o N: ", out opcion, "Error! Vuelva a elejir S o N: "));
-
-
-
-
-
-
-
+            char letra;
+            Console.WriteLine(Validador.ValidarOpcion(out letra));
 
 
 

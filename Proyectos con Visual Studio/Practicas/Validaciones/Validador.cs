@@ -8,61 +8,75 @@ namespace Validaciones
 {
     class Validador
     {
-        public static bool setInt(out int numero)
+        public static bool IngresarDatos(out int numero) 
         {
             return int.TryParse(Console.ReadLine(), out numero);
         }
-        public static bool setFloat(out float numero)
+        public static bool IngresarDatos(out float numero)
         {
             return float.TryParse(Console.ReadLine(), out numero);
         }
-        public static bool setChar(out char caracter)
+        public static bool IngresarDatos(out char caracter)
         {
             return char.TryParse(Console.ReadLine(), out caracter);
         }
-        public static void setString(out string mensaje)
+        public static void IngresarDatos(out string cadena)
         {
-            mensaje = Console.ReadLine();
+            cadena=Console.ReadLine();
         }
-        public static bool ValidarNumeroRango(string mensajeIngreso, out int numero, int minimo, int maximo, string mensajeError)
+        public static bool ValidarNumeros(out int numeroEntero, int min, int max)
         {
-            Console.Write(mensajeIngreso);
-            bool sePudo = Validador.setInt(out numero);
-            while ((sePudo == false) || (numero < minimo || numero > maximo))
+            bool sePudo=true;
+            bool esNumero=Validador.IngresarDatos(out numeroEntero);
+            if ((numeroEntero < min || numeroEntero > max) || (esNumero != true)) 
             {
-                Console.Write(mensajeError);
-                sePudo = Validador.setInt(out numero);
+                sePudo = false;
             }
             return sePudo;
         }
-        public static bool ValidarNumeroFloatRango(string mensajeIngreso, out float numero, float minimo, float maximo, string mensajeError) 
+        public static bool ValidarNumeros(out float numeroFlotante, float min, float max)
         {
-            Console.Write(mensajeIngreso);
-            bool sePudo = Validador.setFloat(out numero);
-            while ((sePudo == false) || (numero < minimo || numero > maximo))
+            bool sePudo = true;
+            bool esNumero = Validador.IngresarDatos(out numeroFlotante);
+            if ((numeroFlotante < min || numeroFlotante > max) || (esNumero != true))
             {
-                Console.Write(mensajeError);
-                sePudo = Validador.setFloat(out numero);
+                sePudo = false;
             }
             return sePudo;
         }
-        public static bool ValidarOpcion(string mensaje, out char caracter,string mensajeError) 
+        public static bool ValidarSoloLetras(out string cadena)
         {
-            Console.WriteLine(mensaje);
-            bool respuesta=false;
-            Validador.setChar(out caracter);
-            caracter=char.ToLower(caracter);
-            while(caracter != 's' && caracter != 'n') 
+            bool contieneSoloLetras = true;
+            IngresarDatos(out cadena);
+            int tamaño = cadena.Length;
+            if(tamaño > 0) 
             {
-                Console.WriteLine(mensajeError);
-                Validador.setChar(out caracter);
-                caracter = char.ToLower(caracter);
+                for (int i = 0; i < tamaño; i++)
+                {
+                    if ((cadena[i] < 'A' || cadena[i] > 'Z') && (cadena[i] < 'a' || cadena[i] > 'z')) 
+                    {
+                        contieneSoloLetras = false;
+                        break;
+                    }
+                }
             }
-            if (caracter == 's') 
+            else 
             {
-                respuesta = true;
+                contieneSoloLetras = false;
             }
-            return respuesta;
+            return contieneSoloLetras;
+        }
+        public static bool ValidarOpcion(out char opcion)
+        {
+            bool opcionElejida = false;
+            Validador.IngresarDatos(out opcion);
+            opcion = char.ToLower(opcion);
+            if (opcion == 's')
+            {
+                opcionElejida = true;
+            }
+
+            return opcionElejida;
         }
     }
 }
