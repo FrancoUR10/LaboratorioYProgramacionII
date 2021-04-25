@@ -1,0 +1,10 @@
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_20\bin\Debug\Ejercicio_20.exe.config
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_20\bin\Debug\Ejercicio_20.exe
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_20\bin\Debug\Ejercicio_20.pdb
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_20\bin\Debug\Billetes.dll
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_20\bin\Debug\Billetes.pdb
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_20\obj\Debug\Ejercicio_20.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_20\obj\Debug\Ejercicio_20.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_20\obj\Debug\Ejercicio_20.csproj.CopyComplete
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_20\obj\Debug\Ejercicio_20.exe
+C:\Users\Franco\source\repos\Ejercicios.Guia\Ejercicio_20\obj\Debug\Ejercicio_20.pdb

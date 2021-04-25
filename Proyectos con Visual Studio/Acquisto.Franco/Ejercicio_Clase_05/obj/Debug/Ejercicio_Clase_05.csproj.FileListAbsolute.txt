@@ -1,0 +1,10 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio_Clase_05\bin\Debug\Ejercicio_Clase_05.exe.config
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio_Clase_05\bin\Debug\Ejercicio_Clase_05.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio_Clase_05\bin\Debug\Ejercicio_Clase_05.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio_Clase_05\bin\Debug\Entidades.dll
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio_Clase_05\bin\Debug\Entidades.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio_Clase_05\obj\Debug\Ejercicio_Clase_05.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio_Clase_05\obj\Debug\Ejercicio_Clase_05.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio_Clase_05\obj\Debug\Ejercicio_Clase_05.csproj.CopyComplete
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio_Clase_05\obj\Debug\Ejercicio_Clase_05.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Ejercicio_Clase_05\obj\Debug\Ejercicio_Clase_05.pdb

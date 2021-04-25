@@ -1,0 +1,10 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9\bin\Debug\Clase_9.exe.config
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9\bin\Debug\Clase_9.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9\bin\Debug\Clase_9.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9\bin\Debug\Clase_9_practica.dll
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9\bin\Debug\Clase_9_practica.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9\obj\Debug\Clase_9.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9\obj\Debug\Clase_9.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9\obj\Debug\Clase_9.csproj.CopyComplete
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9\obj\Debug\Clase_9.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9\obj\Debug\Clase_9.pdb

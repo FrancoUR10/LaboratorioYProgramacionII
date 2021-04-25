@@ -1,0 +1,10 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_PruebaConsola\bin\Debug\Clase_10_PruebaConsola.exe.config
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_PruebaConsola\bin\Debug\Clase_10_PruebaConsola.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_PruebaConsola\bin\Debug\Clase_10_PruebaConsola.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_PruebaConsola\bin\Debug\Clase_10_Ejercicio.dll
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_PruebaConsola\bin\Debug\Clase_10_Ejercicio.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_PruebaConsola\obj\Debug\Clase_10_PruebaConsola.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_PruebaConsola\obj\Debug\Clase_10_PruebaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_PruebaConsola\obj\Debug\Clase_10_PruebaConsola.csproj.CopyComplete
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_PruebaConsola\obj\Debug\Clase_10_PruebaConsola.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_PruebaConsola\obj\Debug\Clase_10_PruebaConsola.pdb

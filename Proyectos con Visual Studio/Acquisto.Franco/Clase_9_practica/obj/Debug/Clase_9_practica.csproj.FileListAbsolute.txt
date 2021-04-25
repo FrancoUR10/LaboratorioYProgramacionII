@@ -1,0 +1,6 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9_practica\bin\Debug\Clase_9_practica.dll
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9_practica\bin\Debug\Clase_9_practica.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9_practica\obj\Debug\Clase_9_practica.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9_practica\obj\Debug\Clase_9_practica.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9_practica\obj\Debug\Clase_9_practica.dll
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_9_practica\obj\Debug\Clase_9_practica.pdb

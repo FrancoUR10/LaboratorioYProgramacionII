@@ -1,0 +1,6 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_Ejercicio\bin\Debug\Clase_10_Ejercicio.dll
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_Ejercicio\bin\Debug\Clase_10_Ejercicio.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_Ejercicio\obj\Debug\Clase_10_Ejercicio.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_Ejercicio\obj\Debug\Clase_10_Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_Ejercicio\obj\Debug\Clase_10_Ejercicio.dll
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_10_Ejercicio\obj\Debug\Clase_10_Ejercicio.pdb

@@ -1,0 +1,6 @@
+C:\Users\Franco\source\repos\Ejercicios.Guia\Billetes\bin\Debug\Billetes.dll
+C:\Users\Franco\source\repos\Ejercicios.Guia\Billetes\bin\Debug\Billetes.pdb
+C:\Users\Franco\source\repos\Ejercicios.Guia\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Ejercicios.Guia\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Ejercicios.Guia\Billetes\obj\Debug\Billetes.dll
+C:\Users\Franco\source\repos\Ejercicios.Guia\Billetes\obj\Debug\Billetes.pdb

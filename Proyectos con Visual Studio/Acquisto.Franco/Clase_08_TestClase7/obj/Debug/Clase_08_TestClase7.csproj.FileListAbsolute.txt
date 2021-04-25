@@ -1,0 +1,10 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_08_TestClase7\bin\Debug\Clase_08_TestClase7.exe.config
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_08_TestClase7\bin\Debug\Clase_08_TestClase7.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_08_TestClase7\bin\Debug\Clase_08_TestClase7.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_08_TestClase7\bin\Debug\Clase_07_Ejercicio.dll
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_08_TestClase7\bin\Debug\Clase_07_Ejercicio.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_08_TestClase7\obj\Debug\Clase_08_TestClase7.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_08_TestClase7\obj\Debug\Clase_08_TestClase7.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_08_TestClase7\obj\Debug\Clase_08_TestClase7.csproj.CopyComplete
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_08_TestClase7\obj\Debug\Clase_08_TestClase7.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_08_TestClase7\obj\Debug\Clase_08_TestClase7.pdb
