@@ -1,0 +1,6 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_12_PracticaParcial\bin\Debug\Clase_12_PracticaParcial.dll
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_12_PracticaParcial\bin\Debug\Clase_12_PracticaParcial.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_12_PracticaParcial\obj\Debug\Clase_12_PracticaParcial.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_12_PracticaParcial\obj\Debug\Clase_12_PracticaParcial.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_12_PracticaParcial\obj\Debug\Clase_12_PracticaParcial.dll
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_12_PracticaParcial\obj\Debug\Clase_12_PracticaParcial.pdb

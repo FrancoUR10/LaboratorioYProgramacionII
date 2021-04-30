@@ -1,0 +1,10 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaParcial_Formulario\bin\Debug\PracticaParcial_Formulario.exe.config
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaParcial_Formulario\bin\Debug\PracticaParcial_Formulario.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaParcial_Formulario\bin\Debug\PracticaParcial_Formulario.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaParcial_Formulario\obj\Debug\PracticaParcial_Formulario.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaParcial_Formulario\obj\Debug\PracticaParcial_Formulario.Form1.resources
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaParcial_Formulario\obj\Debug\PracticaParcial_Formulario.Properties.Resources.resources
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaParcial_Formulario\obj\Debug\PracticaParcial_Formulario.csproj.GenerateResource.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaParcial_Formulario\obj\Debug\PracticaParcial_Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaParcial_Formulario\obj\Debug\PracticaParcial_Formulario.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\PracticaParcial_Formulario\obj\Debug\PracticaParcial_Formulario.pdb

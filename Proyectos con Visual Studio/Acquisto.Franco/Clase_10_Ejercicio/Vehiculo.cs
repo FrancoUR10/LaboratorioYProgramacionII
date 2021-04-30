@@ -12,25 +12,19 @@ namespace Clase_10_Ejercicio
         protected byte cantRuedas;
         protected EMarcas marca;
 
-        public string setPatente
+        public string Patente
         {
             get
             {
                 return this.patente;
             }
         }
-        public EMarcas setMarca
+        public EMarcas Marca
         {
             get
             {
                 return this.marca;
             }
-        }
-        protected string Mostrar()
-        {
-            StringBuilder mensaje = new StringBuilder();
-            mensaje.AppendLine($"Patente: {this.setPatente} // Cantidad de ruedas: {this.cantRuedas} // Marca: {this.setMarca}");
-            return mensaje.ToString();
         }
         public Vehiculo(string patente, byte cantRuedas, EMarcas marca)
         {
@@ -38,25 +32,21 @@ namespace Clase_10_Ejercicio
             this.cantRuedas = cantRuedas;
             this.marca = marca;
         }
-        public static bool operator ==(Vehiculo vehiculo1,Vehiculo vehiculo2) 
+        protected string Mostrar() 
         {
-            bool resultado=false;
-            if ((object)vehiculo1==null && (object)vehiculo2 == null) 
-            {
-                resultado = true;
-            }
-            else if ((object)vehiculo1 != null && (object)vehiculo2 != null) 
-            {
-                if (vehiculo1.patente ==vehiculo2.patente && vehiculo1.marca == vehiculo2.marca) 
-                {
-                    resultado = true;
-                }
-            }
-                return resultado;
+            StringBuilder mensaje = new StringBuilder();
+            mensaje.AppendLine($"Patente: {this.Patente}");
+            mensaje.AppendLine($"Cantidad de ruedas: {this.cantRuedas}");
+            mensaje.AppendLine($"Marca: {this.Marca}");
+            return mensaje.ToString();
         }
-        public static bool operator !=(Vehiculo vehiculo1, Vehiculo vehiculo2) 
+        public static bool operator ==(Vehiculo v1,Vehiculo v2) 
         {
-            return !(vehiculo1==vehiculo2);
+            return v1.Patente == v2.Patente && v1.Marca == v2.Marca;
+        }
+        public static bool operator !=(Vehiculo v1, Vehiculo v2) 
+        {
+            return !(v1==v2);
         }
     }
 }

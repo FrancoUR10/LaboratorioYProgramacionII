@@ -15,9 +15,13 @@ namespace Clase_10_PruebaConsola
 
             Lavadero unLavadero = new Lavadero(2000,5000,3000);
             Auto unAuto = new Auto("02E7", 4, EMarcas.Ford,4);
-            Auto otroAuto = new Auto("02E8", 4, EMarcas.Ford,4);
+            Auto otroAuto = new Auto("02E8", 4, EMarcas.Fiat,4);
+            Camion unCamion = new Camion("02E9", 4, EMarcas.Honda,200);
+
             unLavadero += unAuto;
-            Console.WriteLine(unLavadero.MostrarTotalFacturado(EVehiculos.Auto));
+            unLavadero += otroAuto;
+            unLavadero += unCamion;
+            Console.WriteLine(unLavadero.GetLavadero);
 
 
 

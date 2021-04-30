@@ -13,89 +13,107 @@ namespace Clase_10_Ejercicio
         private float precioCamion;
         private float precioMoto;
 
-        public Lavadero(float precioAuto, float precioCamion, float precioMoto) : this()
-        {
-            this.precioAuto = precioAuto;
-            this.precioCamion = precioCamion;
-            this.precioMoto = precioMoto;
-        }
-        private Lavadero()
-        {
-            this.vehiculos = new List<Vehiculo>();
-        }
-        public double GetLavadero 
+        public string GetLavadero 
         {
             get 
             {
-                double totalPrecios = 0;
-                foreach (Vehiculo item in this.vehiculos)
+                StringBuilder mensaje = new StringBuilder();
+                mensaje.AppendLine("**********LAVADERO**********\n");
+                mensaje.AppendLine("**********PRECIOS VIGENTES**********\n");
+                mensaje.AppendLine($"Precio por lavar auto: {this.precioAuto}");
+                mensaje.AppendLine($"Precio por lavar camion: {this.precioCamion}");
+                mensaje.AppendLine($"Precio por lavar moto: {this.precioMoto}");
+                mensaje.AppendLine($"\n**********Vehiculos en el lavadero**********\n");
+                foreach(Vehiculo item in this.Vehiculos) 
                 {
-                    if (item is Auto)
+                    if(item is Auto) 
                     {
-                        totalPrecios = this.MostrarTotalFacturado(EVehiculos.Auto);
+                        mensaje.AppendLine(((Auto)item).MostrarAuto());
                     }
                     if (item is Camion)
                     {
-                        totalPrecios = this.MostrarTotalFacturado(EVehiculos.Camion);
+                        mensaje.AppendLine(((Camion)item).MostrarCamion());
                     }
                     if (item is Moto)
                     {
-                        totalPrecios = this.MostrarTotalFacturado(EVehiculos.Moto);
+                        mensaje.AppendLine(((Moto)item).MostrarMoto());
                     }
                 }
-                return totalPrecios;
+                mensaje.AppendLine($"**********FACTURACIONES**********\n");
+                mensaje.AppendLine($"Total facturado en autos: {MostrarTotalFacturado(EVehiculos.Auto).ToString()}");
+                mensaje.AppendLine($"Total facturado en camiones: {MostrarTotalFacturado(EVehiculos.Camion).ToString()}");
+                mensaje.AppendLine($"Total facturado en motos: {MostrarTotalFacturado(EVehiculos.Moto).ToString()}");
+                mensaje.Append($"\nTotal facturado: {MostrarTotalFacturado().ToString()}");
+                return mensaje.ToString();
             }
         }
-        public List<Vehiculo> GetVehiculo
+        public List<Vehiculo> Vehiculos
         {
             get
             {
                 return this.vehiculos;
             }
         }
-        public double MostrarTotalFacturado(EVehiculos tiposDeVehiculos) 
+        private Lavadero()
         {
-            double totalFactura = 0;
-            double precioAuto = 0;
-            double precioCamion = 0;
-            double precioMoto = 0;
-            foreach(Vehiculo item in this.vehiculos) 
+            this.vehiculos = new List<Vehiculo>();
+        }
+        public Lavadero(float precioAuto, float precioCamion, float precioMoto)
+            : this()
+        {
+            this.precioAuto = precioAuto;
+            this.precioCamion = precioCamion;
+            this.precioMoto = precioMoto;
+        }
+        public double MostrarTotalFacturado()
+        {
+            double totalDePrecios=0;
+            totalDePrecios = this.MostrarTotalFacturado(EVehiculos.Auto) + this.MostrarTotalFacturado(EVehiculos.Camion) + this.MostrarTotalFacturado(EVehiculos.Moto);
+            return totalDePrecios;
+        }
+        public double MostrarTotalFacturado(EVehiculos tipoDeVehiculo) 
+        {
+            double totalDePrecios = 0;
+            double precioTotalAuto = 0;
+            double precioTotalCamion = 0;
+            double precioTotalMoto = 0;
+            foreach (Vehiculo item in this.Vehiculos)
             {
-                if(item is Auto) 
+                if (item is Auto)
                 {
-                    precioAuto += this.precioAuto;
+                    precioTotalAuto += this.precioAuto;
                 }
                 if (item is Camion)
                 {
-                    precioCamion += this.precioCamion;
+                    precioTotalCamion += this.precioCamion;
                 }
                 if (item is Moto)
                 {
-                    precioMoto += this.precioMoto;
+                    precioTotalMoto += this.precioMoto;
                 }
             }
-            switch (tiposDeVehiculos) 
+            switch (tipoDeVehiculo) 
             {
                 case EVehiculos.Auto:
-                    totalFactura = precioAuto;
+                    totalDePrecios= precioTotalAuto;
                     break;
                 case EVehiculos.Camion:
-                    totalFactura = precioCamion;
+                    totalDePrecios = precioTotalCamion;
                     break;
                 case EVehiculos.Moto:
-                    totalFactura = precioMoto;
+                    totalDePrecios = precioTotalMoto;
                     break;
                 default:
                     break;
             }
-            return totalFactura;
+            return totalDePrecios;
         }
-        public static bool operator ==(Lavadero lavadero,Vehiculo vehiculo) 
+        public static bool operator ==(Lavadero lavadero, Vehiculo vehiculo) 
         {
             bool respuesta = false;
-            foreach(Vehiculo objeto in lavadero.vehiculos) 
+            foreach(Vehiculo item in lavadero.Vehiculos) 
             {
-                if (objeto == vehiculo) 
+                if (item == vehiculo) 
                 {
                     respuesta = true;
                     break;
@@ -107,19 +125,19 @@ namespace Clase_10_Ejercicio
         {
             return !(lavadero == vehiculo);
         }
-        public static Lavadero operator +(Lavadero lavadero, Vehiculo vehiculo) 
+        public static Lavadero operator +(Lavadero lavadero,Vehiculo vehiculo) 
         {
             if (lavadero != vehiculo) 
             {
-                lavadero.vehiculos.Add(vehiculo);
+                lavadero.Vehiculos.Add(vehiculo);
             }
             return lavadero;
         }
-        public static Lavadero operator -(Lavadero lavadero, Vehiculo vehiculo)
+        public static Lavadero operator -(Lavadero lavadero, Vehiculo vehiculo) 
         {
             if (lavadero == vehiculo) 
             {
-                lavadero.vehiculos.Remove(vehiculo);
+                lavadero.Vehiculos.Remove(vehiculo);
             }
             return lavadero;
         }

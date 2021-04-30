@@ -10,15 +10,17 @@ namespace Clase_10_Ejercicio
     {
         protected float cilindrada;
 
-        public Moto(string patente, byte cantRuedas, EMarcas marca, float cilindrada) : base(patente, cantRuedas, marca)
+        public Moto(string patente,byte cantRuedas,EMarcas marca,float cilindrada) 
+            :base(patente,cantRuedas,marca)
         {
             this.cilindrada = cilindrada;
         }
-        public string MostrarMoto()
+        public string MostrarMoto() 
         {
             StringBuilder mensaje = new StringBuilder();
+            mensaje.AppendLine("MOTO");
             mensaje.Append(base.Mostrar());
-            mensaje.AppendLine($"Cilindrada de la moto: {this.cilindrada}");
+            mensaje.AppendLine($"Cilondrada: {this.cilindrada}");
             return mensaje.ToString();
         }
     }

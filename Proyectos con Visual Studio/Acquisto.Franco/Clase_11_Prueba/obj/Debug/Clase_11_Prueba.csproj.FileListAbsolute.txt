@@ -1,0 +1,10 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11_Prueba\bin\Debug\Clase_11_Prueba.exe.config
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11_Prueba\bin\Debug\Clase_11_Prueba.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11_Prueba\bin\Debug\Clase_11_Prueba.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11_Prueba\bin\Debug\Clase_11.dll
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11_Prueba\bin\Debug\Clase_11.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11_Prueba\obj\Debug\Clase_11_Prueba.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11_Prueba\obj\Debug\Clase_11_Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11_Prueba\obj\Debug\Clase_11_Prueba.csproj.CopyComplete
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11_Prueba\obj\Debug\Clase_11_Prueba.exe
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11_Prueba\obj\Debug\Clase_11_Prueba.pdb

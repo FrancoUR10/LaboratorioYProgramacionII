@@ -10,13 +10,15 @@ namespace Clase_10_Ejercicio
     {
         protected int cantidadAsientos;
 
-        public Auto(string patente, byte cantRuedas, EMarcas marca, int cantidadAsientos) : base(patente,cantRuedas,marca)
+        public Auto(string patente, byte cantRuedas, EMarcas marca, int cantidadAsientos)
+            : base(patente, cantRuedas, marca)
         {
             this.cantidadAsientos = cantidadAsientos;
         }
-        public string MostrarAuto() 
+        public string MostrarAuto()
         {
             StringBuilder mensaje = new StringBuilder();
+            mensaje.AppendLine("AUTO");
             mensaje.Append(base.Mostrar());
             mensaje.AppendLine($"Cantidad de asientos: {this.cantidadAsientos}");
             return mensaje.ToString();

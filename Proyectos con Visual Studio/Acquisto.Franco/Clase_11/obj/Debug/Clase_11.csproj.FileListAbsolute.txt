@@ -1,0 +1,6 @@
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11\bin\Debug\Clase_11.dll
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11\bin\Debug\Clase_11.pdb
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11\obj\Debug\Clase_11.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11\obj\Debug\Clase_11.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11\obj\Debug\Clase_11.dll
+C:\Users\Franco\source\repos\Acquisto.Franco\Clase_11\obj\Debug\Clase_11.pdb
