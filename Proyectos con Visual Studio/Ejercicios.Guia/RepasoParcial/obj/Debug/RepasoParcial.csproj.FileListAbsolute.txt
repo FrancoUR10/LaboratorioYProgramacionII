@@ -1,0 +1,6 @@
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial\bin\Debug\RepasoParcial.dll
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial\bin\Debug\RepasoParcial.pdb
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial\obj\Debug\RepasoParcial.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial\obj\Debug\RepasoParcial.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial\obj\Debug\RepasoParcial.dll
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial\obj\Debug\RepasoParcial.pdb

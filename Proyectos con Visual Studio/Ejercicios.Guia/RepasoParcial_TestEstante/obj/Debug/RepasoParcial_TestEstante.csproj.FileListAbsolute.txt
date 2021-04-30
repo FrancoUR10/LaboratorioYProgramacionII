@@ -1,0 +1,10 @@
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial_TestEstante\bin\Debug\RepasoParcial_TestEstante.exe.config
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial_TestEstante\bin\Debug\RepasoParcial_TestEstante.exe
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial_TestEstante\bin\Debug\RepasoParcial_TestEstante.pdb
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial_TestEstante\bin\Debug\RepasoParcial.dll
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial_TestEstante\bin\Debug\RepasoParcial.pdb
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial_TestEstante\obj\Debug\RepasoParcial_TestEstante.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial_TestEstante\obj\Debug\RepasoParcial_TestEstante.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial_TestEstante\obj\Debug\RepasoParcial_TestEstante.csproj.CopyComplete
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial_TestEstante\obj\Debug\RepasoParcial_TestEstante.exe
+C:\Users\Franco\source\repos\Ejercicios.Guia\RepasoParcial_TestEstante\obj\Debug\RepasoParcial_TestEstante.pdb
