@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejer_03CalcularEdad/1.0.0": {
+        "dependencies": {
+          "Biblioteca_Persona": "1.0.0"
+        },
+        "runtime": {
+          "Ejer_03CalcularEdad.dll": {}
+        }
+      },
+      "Biblioteca_Persona/1.0.0": {
+        "runtime": {
+          "Biblioteca_Persona.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejer_03CalcularEdad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca_Persona/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\bin\Debug\net5.0\Ejercicio_02.exe
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\bin\Debug\net5.0\Ejercicio_02.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\bin\Debug\net5.0\Ejercicio_02.runtimeconfig.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\bin\Debug\net5.0\Ejercicio_02.runtimeconfig.dev.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\bin\Debug\net5.0\Ejercicio_02.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\bin\Debug\net5.0\ref\Ejercicio_02.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\bin\Debug\net5.0\Ejercicio_02.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\obj\Debug\net5.0\Ejercicio_02.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\obj\Debug\net5.0\Ejercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\obj\Debug\net5.0\Ejercicio_02.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\obj\Debug\net5.0\Ejercicio_02.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\obj\Debug\net5.0\Ejercicio_02.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\obj\Debug\net5.0\Ejercicio_02.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\obj\Debug\net5.0\ref\Ejercicio_02.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\obj\Debug\net5.0\Ejercicio_02.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02\obj\Debug\net5.0\Ejercicio_02.genruntimeconfig.cache

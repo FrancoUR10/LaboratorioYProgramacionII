@@ -1,0 +1,16 @@
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\bin\Debug\net5.0\Prueba_Matrices.exe
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\bin\Debug\net5.0\Prueba_Matrices.deps.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\bin\Debug\net5.0\Prueba_Matrices.runtimeconfig.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\bin\Debug\net5.0\Prueba_Matrices.runtimeconfig.dev.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\bin\Debug\net5.0\Prueba_Matrices.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\bin\Debug\net5.0\ref\Prueba_Matrices.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\bin\Debug\net5.0\Prueba_Matrices.pdb
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\obj\Debug\net5.0\Prueba_Matrices.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\obj\Debug\net5.0\Prueba_Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\obj\Debug\net5.0\Prueba_Matrices.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\obj\Debug\net5.0\Prueba_Matrices.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\obj\Debug\net5.0\Prueba_Matrices.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\obj\Debug\net5.0\Prueba_Matrices.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\obj\Debug\net5.0\ref\Prueba_Matrices.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\obj\Debug\net5.0\Prueba_Matrices.pdb
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Prueba_Matrices\obj\Debug\net5.0\Prueba_Matrices.genruntimeconfig.cache

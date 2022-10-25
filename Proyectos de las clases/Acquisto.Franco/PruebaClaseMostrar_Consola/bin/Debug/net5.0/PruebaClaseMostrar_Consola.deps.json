@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PruebaClaseMostrar_Consola/1.0.0": {
+        "dependencies": {
+          "PruebaClaseMostrar": "1.0.0"
+        },
+        "runtime": {
+          "PruebaClaseMostrar_Consola.dll": {}
+        }
+      },
+      "PruebaClaseMostrar/1.0.0": {
+        "runtime": {
+          "PruebaClaseMostrar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaClaseMostrar_Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PruebaClaseMostrar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

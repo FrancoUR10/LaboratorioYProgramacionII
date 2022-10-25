@@ -1,0 +1,15 @@
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\bin\Debug\net5.0\Clase_10_Ejercicio_Excepciones.exe
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\bin\Debug\net5.0\Clase_10_Ejercicio_Excepciones.deps.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\bin\Debug\net5.0\Clase_10_Ejercicio_Excepciones.runtimeconfig.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\bin\Debug\net5.0\Clase_10_Ejercicio_Excepciones.runtimeconfig.dev.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\bin\Debug\net5.0\Clase_10_Ejercicio_Excepciones.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\bin\Debug\net5.0\ref\Clase_10_Ejercicio_Excepciones.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\bin\Debug\net5.0\Clase_10_Ejercicio_Excepciones.pdb
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\obj\Debug\net5.0\Clase_10_Ejercicio_Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\obj\Debug\net5.0\Clase_10_Ejercicio_Excepciones.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\obj\Debug\net5.0\Clase_10_Ejercicio_Excepciones.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\obj\Debug\net5.0\Clase_10_Ejercicio_Excepciones.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\obj\Debug\net5.0\Clase_10_Ejercicio_Excepciones.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\obj\Debug\net5.0\ref\Clase_10_Ejercicio_Excepciones.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\obj\Debug\net5.0\Clase_10_Ejercicio_Excepciones.pdb
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones\obj\Debug\net5.0\Clase_10_Ejercicio_Excepciones.genruntimeconfig.cache

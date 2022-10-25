@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Clase_10_Ejercicio_Excepciones_1
+build_property.ProjectDir = C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_10_Ejercicio_Excepciones_1\

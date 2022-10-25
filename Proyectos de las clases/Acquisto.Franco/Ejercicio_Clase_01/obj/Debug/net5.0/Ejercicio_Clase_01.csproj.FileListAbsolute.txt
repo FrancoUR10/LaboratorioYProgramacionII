@@ -1,0 +1,16 @@
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\bin\Debug\net5.0\Ejercicio_Clase_01.exe
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\bin\Debug\net5.0\Ejercicio_Clase_01.deps.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\bin\Debug\net5.0\Ejercicio_Clase_01.runtimeconfig.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\bin\Debug\net5.0\Ejercicio_Clase_01.runtimeconfig.dev.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\bin\Debug\net5.0\Ejercicio_Clase_01.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\bin\Debug\net5.0\ref\Ejercicio_Clase_01.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\bin\Debug\net5.0\Ejercicio_Clase_01.pdb
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\obj\Debug\net5.0\Ejercicio_Clase_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\obj\Debug\net5.0\Ejercicio_Clase_01.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\obj\Debug\net5.0\Ejercicio_Clase_01.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\obj\Debug\net5.0\Ejercicio_Clase_01.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\obj\Debug\net5.0\Ejercicio_Clase_01.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\obj\Debug\net5.0\ref\Ejercicio_Clase_01.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\obj\Debug\net5.0\Ejercicio_Clase_01.pdb
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\obj\Debug\net5.0\Ejercicio_Clase_01.genruntimeconfig.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase_01\obj\Debug\net5.0\Ejercicio_Clase_01.csproj.AssemblyReference.cache

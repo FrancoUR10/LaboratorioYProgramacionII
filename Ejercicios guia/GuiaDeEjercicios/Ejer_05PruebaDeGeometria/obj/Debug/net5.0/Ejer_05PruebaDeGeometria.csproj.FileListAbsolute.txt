@@ -1,0 +1,12 @@
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_05PruebaDeGeometria\bin\Debug\net5.0\Ejer_05PruebaDeGeometria.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_05PruebaDeGeometria\bin\Debug\net5.0\Ejer_05PruebaDeGeometria.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_05PruebaDeGeometria\bin\Debug\net5.0\ref\Ejer_05PruebaDeGeometria.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_05PruebaDeGeometria\bin\Debug\net5.0\Ejer_05PruebaDeGeometria.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_05PruebaDeGeometria\obj\Debug\net5.0\Ejer_05PruebaDeGeometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_05PruebaDeGeometria\obj\Debug\net5.0\Ejer_05PruebaDeGeometria.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_05PruebaDeGeometria\obj\Debug\net5.0\Ejer_05PruebaDeGeometria.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_05PruebaDeGeometria\obj\Debug\net5.0\Ejer_05PruebaDeGeometria.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_05PruebaDeGeometria\obj\Debug\net5.0\Ejer_05PruebaDeGeometria.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_05PruebaDeGeometria\obj\Debug\net5.0\ref\Ejer_05PruebaDeGeometria.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_05PruebaDeGeometria\obj\Debug\net5.0\Ejer_05PruebaDeGeometria.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_05PruebaDeGeometria\obj\Debug\net5.0\Ejer_05PruebaDeGeometria.csproj.AssemblyReference.cache

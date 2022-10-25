@@ -1,0 +1,12 @@
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Persona\bin\Debug\net5.0\Biblioteca_Persona.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Persona\bin\Debug\net5.0\Biblioteca_Persona.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Persona\bin\Debug\net5.0\ref\Biblioteca_Persona.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Persona\bin\Debug\net5.0\Biblioteca_Persona.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Persona\obj\Debug\net5.0\Biblioteca_Persona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Persona\obj\Debug\net5.0\Biblioteca_Persona.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Persona\obj\Debug\net5.0\Biblioteca_Persona.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Persona\obj\Debug\net5.0\Biblioteca_Persona.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Persona\obj\Debug\net5.0\Biblioteca_Persona.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Persona\obj\Debug\net5.0\ref\Biblioteca_Persona.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Persona\obj\Debug\net5.0\Biblioteca_Persona.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Persona\obj\Debug\net5.0\Biblioteca_Persona.csproj.AssemblyReference.cache

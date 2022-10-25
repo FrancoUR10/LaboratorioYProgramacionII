@@ -1,0 +1,16 @@
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\bin\Debug\net5.0\Ejer02DeseaContinuar.exe
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\bin\Debug\net5.0\Ejer02DeseaContinuar.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\bin\Debug\net5.0\Ejer02DeseaContinuar.runtimeconfig.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\bin\Debug\net5.0\Ejer02DeseaContinuar.runtimeconfig.dev.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\bin\Debug\net5.0\Ejer02DeseaContinuar.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\bin\Debug\net5.0\ref\Ejer02DeseaContinuar.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\bin\Debug\net5.0\Ejer02DeseaContinuar.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\obj\Debug\net5.0\Ejer02DeseaContinuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\obj\Debug\net5.0\Ejer02DeseaContinuar.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\obj\Debug\net5.0\Ejer02DeseaContinuar.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\obj\Debug\net5.0\Ejer02DeseaContinuar.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\obj\Debug\net5.0\Ejer02DeseaContinuar.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\obj\Debug\net5.0\ref\Ejer02DeseaContinuar.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\obj\Debug\net5.0\Ejer02DeseaContinuar.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\obj\Debug\net5.0\Ejer02DeseaContinuar.genruntimeconfig.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_02_Clase_02\obj\Debug\net5.0\Ejer02DeseaContinuar.csproj.AssemblyReference.cache

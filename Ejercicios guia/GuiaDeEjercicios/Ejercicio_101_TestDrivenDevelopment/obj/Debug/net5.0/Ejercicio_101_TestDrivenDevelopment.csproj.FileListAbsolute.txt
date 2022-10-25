@@ -1,0 +1,11 @@
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_101_TestDrivenDevelopment\bin\Debug\net5.0\Ejercicio_101_TestDrivenDevelopment.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_101_TestDrivenDevelopment\bin\Debug\net5.0\Ejercicio_101_TestDrivenDevelopment.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_101_TestDrivenDevelopment\bin\Debug\net5.0\ref\Ejercicio_101_TestDrivenDevelopment.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_101_TestDrivenDevelopment\bin\Debug\net5.0\Ejercicio_101_TestDrivenDevelopment.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_101_TestDrivenDevelopment\obj\Debug\net5.0\Ejercicio_101_TestDrivenDevelopment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_101_TestDrivenDevelopment\obj\Debug\net5.0\Ejercicio_101_TestDrivenDevelopment.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_101_TestDrivenDevelopment\obj\Debug\net5.0\Ejercicio_101_TestDrivenDevelopment.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_101_TestDrivenDevelopment\obj\Debug\net5.0\Ejercicio_101_TestDrivenDevelopment.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_101_TestDrivenDevelopment\obj\Debug\net5.0\Ejercicio_101_TestDrivenDevelopment.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_101_TestDrivenDevelopment\obj\Debug\net5.0\ref\Ejercicio_101_TestDrivenDevelopment.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejercicio_101_TestDrivenDevelopment\obj\Debug\net5.0\Ejercicio_101_TestDrivenDevelopment.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase_12_TiposGenericos_ConsolaDePrueba/1.0.0": {
+        "dependencies": {
+          "Ejercicio_Clase12_TiposGenericos": "1.0.0"
+        },
+        "runtime": {
+          "Clase_12_TiposGenericos_ConsolaDePrueba.dll": {}
+        }
+      },
+      "Ejercicio_Clase12_TiposGenericos/1.0.0": {
+        "runtime": {
+          "Ejercicio_Clase12_TiposGenericos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase_12_TiposGenericos_ConsolaDePrueba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejercicio_Clase12_TiposGenericos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

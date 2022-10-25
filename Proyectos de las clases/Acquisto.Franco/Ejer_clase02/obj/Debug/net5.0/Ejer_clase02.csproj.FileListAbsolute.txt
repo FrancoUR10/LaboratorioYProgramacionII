@@ -1,0 +1,16 @@
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\bin\Debug\net5.0\Ejer_clase02.exe
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\bin\Debug\net5.0\Ejer_clase02.deps.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\bin\Debug\net5.0\Ejer_clase02.runtimeconfig.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\bin\Debug\net5.0\Ejer_clase02.runtimeconfig.dev.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\bin\Debug\net5.0\Ejer_clase02.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\bin\Debug\net5.0\ref\Ejer_clase02.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\bin\Debug\net5.0\Ejer_clase02.pdb
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\obj\Debug\net5.0\Ejer_clase02.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\obj\Debug\net5.0\Ejer_clase02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\obj\Debug\net5.0\Ejer_clase02.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\obj\Debug\net5.0\Ejer_clase02.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\obj\Debug\net5.0\Ejer_clase02.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\obj\Debug\net5.0\Ejer_clase02.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\obj\Debug\net5.0\ref\Ejer_clase02.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\obj\Debug\net5.0\Ejer_clase02.pdb
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejer_clase02\obj\Debug\net5.0\Ejer_clase02.genruntimeconfig.cache

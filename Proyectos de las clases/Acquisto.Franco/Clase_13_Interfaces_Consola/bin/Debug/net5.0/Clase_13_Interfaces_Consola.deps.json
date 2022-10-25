@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase_13_Interfaces_Consola/1.0.0": {
+        "dependencies": {
+          "Clase_13_Ejercicio_Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Clase_13_Interfaces_Consola.dll": {}
+        }
+      },
+      "Clase_13_Ejercicio_Interfaces/1.0.0": {
+        "runtime": {
+          "Clase_13_Ejercicio_Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase_13_Interfaces_Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clase_13_Ejercicio_Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

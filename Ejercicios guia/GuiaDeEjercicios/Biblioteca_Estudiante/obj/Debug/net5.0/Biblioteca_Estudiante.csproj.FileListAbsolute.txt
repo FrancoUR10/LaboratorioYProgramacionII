@@ -1,0 +1,12 @@
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Estudiante\bin\Debug\net5.0\Biblioteca_Estudiante.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Estudiante\bin\Debug\net5.0\Biblioteca_Estudiante.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Estudiante\bin\Debug\net5.0\ref\Biblioteca_Estudiante.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Estudiante\bin\Debug\net5.0\Biblioteca_Estudiante.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Estudiante\obj\Debug\net5.0\Biblioteca_Estudiante.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Estudiante\obj\Debug\net5.0\Biblioteca_Estudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Estudiante\obj\Debug\net5.0\Biblioteca_Estudiante.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Estudiante\obj\Debug\net5.0\Biblioteca_Estudiante.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Estudiante\obj\Debug\net5.0\Biblioteca_Estudiante.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Estudiante\obj\Debug\net5.0\Biblioteca_Estudiante.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Estudiante\obj\Debug\net5.0\ref\Biblioteca_Estudiante.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Biblioteca_Estudiante\obj\Debug\net5.0\Biblioteca_Estudiante.pdb

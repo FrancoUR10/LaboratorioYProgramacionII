@@ -1,0 +1,16 @@
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\bin\Debug\net5.0\Ejer_07TeoremaDePitagoras.exe
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\bin\Debug\net5.0\Ejer_07TeoremaDePitagoras.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\bin\Debug\net5.0\Ejer_07TeoremaDePitagoras.runtimeconfig.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\bin\Debug\net5.0\Ejer_07TeoremaDePitagoras.runtimeconfig.dev.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\bin\Debug\net5.0\Ejer_07TeoremaDePitagoras.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\bin\Debug\net5.0\ref\Ejer_07TeoremaDePitagoras.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\bin\Debug\net5.0\Ejer_07TeoremaDePitagoras.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\obj\Debug\net5.0\Ejer_07TeoremaDePitagoras.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\obj\Debug\net5.0\Ejer_07TeoremaDePitagoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\obj\Debug\net5.0\Ejer_07TeoremaDePitagoras.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\obj\Debug\net5.0\Ejer_07TeoremaDePitagoras.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\obj\Debug\net5.0\Ejer_07TeoremaDePitagoras.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\obj\Debug\net5.0\Ejer_07TeoremaDePitagoras.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\obj\Debug\net5.0\ref\Ejer_07TeoremaDePitagoras.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\obj\Debug\net5.0\Ejer_07TeoremaDePitagoras.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_07TeoremaDePitagoras\obj\Debug\net5.0\Ejer_07TeoremaDePitagoras.genruntimeconfig.cache

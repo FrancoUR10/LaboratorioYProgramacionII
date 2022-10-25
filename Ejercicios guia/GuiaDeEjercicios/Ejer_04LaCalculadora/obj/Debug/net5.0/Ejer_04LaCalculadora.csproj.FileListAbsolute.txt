@@ -1,0 +1,16 @@
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\bin\Debug\net5.0\Ejer_04LaCalculadora.exe
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\bin\Debug\net5.0\Ejer_04LaCalculadora.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\bin\Debug\net5.0\Ejer_04LaCalculadora.runtimeconfig.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\bin\Debug\net5.0\Ejer_04LaCalculadora.runtimeconfig.dev.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\bin\Debug\net5.0\Ejer_04LaCalculadora.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\bin\Debug\net5.0\ref\Ejer_04LaCalculadora.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\bin\Debug\net5.0\Ejer_04LaCalculadora.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\obj\Debug\net5.0\Ejer_04LaCalculadora.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\obj\Debug\net5.0\Ejer_04LaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\obj\Debug\net5.0\Ejer_04LaCalculadora.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\obj\Debug\net5.0\Ejer_04LaCalculadora.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\obj\Debug\net5.0\Ejer_04LaCalculadora.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\obj\Debug\net5.0\Ejer_04LaCalculadora.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\obj\Debug\net5.0\ref\Ejer_04LaCalculadora.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\obj\Debug\net5.0\Ejer_04LaCalculadora.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_04LaCalculadora\obj\Debug\net5.0\Ejer_04LaCalculadora.genruntimeconfig.cache

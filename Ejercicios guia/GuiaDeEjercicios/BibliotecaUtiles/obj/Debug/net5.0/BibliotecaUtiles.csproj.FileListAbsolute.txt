@@ -1,0 +1,12 @@
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\BibliotecaUtiles\bin\Debug\net5.0\BibliotecaUtiles.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\BibliotecaUtiles\bin\Debug\net5.0\BibliotecaUtiles.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\BibliotecaUtiles\bin\Debug\net5.0\ref\BibliotecaUtiles.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\BibliotecaUtiles\bin\Debug\net5.0\BibliotecaUtiles.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\BibliotecaUtiles\obj\Debug\net5.0\BibliotecaUtiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\BibliotecaUtiles\obj\Debug\net5.0\BibliotecaUtiles.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\BibliotecaUtiles\obj\Debug\net5.0\BibliotecaUtiles.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\BibliotecaUtiles\obj\Debug\net5.0\BibliotecaUtiles.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\BibliotecaUtiles\obj\Debug\net5.0\BibliotecaUtiles.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\BibliotecaUtiles\obj\Debug\net5.0\ref\BibliotecaUtiles.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\BibliotecaUtiles\obj\Debug\net5.0\BibliotecaUtiles.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\BibliotecaUtiles\obj\Debug\net5.0\BibliotecaUtiles.csproj.AssemblyReference.cache

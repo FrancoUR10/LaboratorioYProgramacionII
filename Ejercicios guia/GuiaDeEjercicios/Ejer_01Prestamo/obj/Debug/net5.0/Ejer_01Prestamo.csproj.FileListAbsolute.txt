@@ -1,0 +1,12 @@
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_01Prestamo\bin\Debug\net5.0\Ejer_01Prestamo.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_01Prestamo\bin\Debug\net5.0\Ejer_01Prestamo.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_01Prestamo\bin\Debug\net5.0\ref\Ejer_01Prestamo.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_01Prestamo\bin\Debug\net5.0\Ejer_01Prestamo.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_01Prestamo\obj\Debug\net5.0\Ejer_01Prestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_01Prestamo\obj\Debug\net5.0\Ejer_01Prestamo.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_01Prestamo\obj\Debug\net5.0\Ejer_01Prestamo.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_01Prestamo\obj\Debug\net5.0\Ejer_01Prestamo.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_01Prestamo\obj\Debug\net5.0\Ejer_01Prestamo.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_01Prestamo\obj\Debug\net5.0\ref\Ejer_01Prestamo.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_01Prestamo\obj\Debug\net5.0\Ejer_01Prestamo.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_01Prestamo\obj\Debug\net5.0\Ejer_01Prestamo.csproj.AssemblyReference.cache

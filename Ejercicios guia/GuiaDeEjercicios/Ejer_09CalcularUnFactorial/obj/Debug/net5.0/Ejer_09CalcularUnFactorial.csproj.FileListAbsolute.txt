@@ -1,0 +1,16 @@
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\bin\Debug\net5.0\Ejer_09CalcularUnFactorial.exe
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\bin\Debug\net5.0\Ejer_09CalcularUnFactorial.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\bin\Debug\net5.0\Ejer_09CalcularUnFactorial.runtimeconfig.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\bin\Debug\net5.0\Ejer_09CalcularUnFactorial.runtimeconfig.dev.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\bin\Debug\net5.0\Ejer_09CalcularUnFactorial.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\bin\Debug\net5.0\ref\Ejer_09CalcularUnFactorial.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\bin\Debug\net5.0\Ejer_09CalcularUnFactorial.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\obj\Debug\net5.0\Ejer_09CalcularUnFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\obj\Debug\net5.0\Ejer_09CalcularUnFactorial.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\obj\Debug\net5.0\Ejer_09CalcularUnFactorial.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\obj\Debug\net5.0\Ejer_09CalcularUnFactorial.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\obj\Debug\net5.0\Ejer_09CalcularUnFactorial.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\obj\Debug\net5.0\ref\Ejer_09CalcularUnFactorial.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\obj\Debug\net5.0\Ejer_09CalcularUnFactorial.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\obj\Debug\net5.0\Ejer_09CalcularUnFactorial.genruntimeconfig.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_09CalcularUnFactorial\obj\Debug\net5.0\Ejer_09CalcularUnFactorial.csproj.AssemblyReference.cache

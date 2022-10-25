@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FormEjercicio_03/1.0.0": {
+        "runtime": {
+          "FormEjercicio_03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormEjercicio_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

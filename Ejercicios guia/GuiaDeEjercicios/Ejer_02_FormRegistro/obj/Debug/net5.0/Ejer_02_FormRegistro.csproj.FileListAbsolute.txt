@@ -1,0 +1,12 @@
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_02_FormRegistro\bin\Debug\net5.0\Ejer_02_FormRegistro.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_02_FormRegistro\bin\Debug\net5.0\Ejer_02_FormRegistro.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_02_FormRegistro\bin\Debug\net5.0\ref\Ejer_02_FormRegistro.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_02_FormRegistro\bin\Debug\net5.0\Ejer_02_FormRegistro.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_02_FormRegistro\obj\Debug\net5.0\Ejer_02_FormRegistro.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_02_FormRegistro\obj\Debug\net5.0\Ejer_02_FormRegistro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_02_FormRegistro\obj\Debug\net5.0\Ejer_02_FormRegistro.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_02_FormRegistro\obj\Debug\net5.0\Ejer_02_FormRegistro.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_02_FormRegistro\obj\Debug\net5.0\Ejer_02_FormRegistro.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_02_FormRegistro\obj\Debug\net5.0\Ejer_02_FormRegistro.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_02_FormRegistro\obj\Debug\net5.0\ref\Ejer_02_FormRegistro.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_02_FormRegistro\obj\Debug\net5.0\Ejer_02_FormRegistro.pdb

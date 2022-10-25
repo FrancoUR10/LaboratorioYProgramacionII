@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio_Tinta-Pluma_Consola/1.0.0": {
+        "dependencies": {
+          "Ejercicio_Tinta-Pluma": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio_Tinta-Pluma_Consola.dll": {}
+        }
+      },
+      "Ejercicio_Tinta-Pluma/1.0.0": {
+        "runtime": {
+          "Ejercicio_Tinta-Pluma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_Tinta-Pluma_Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejercicio_Tinta-Pluma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

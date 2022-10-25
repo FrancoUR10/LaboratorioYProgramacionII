@@ -1,0 +1,16 @@
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\bin\Debug\net5.0\Ejer_06CalculadoraDeAreas.exe
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\bin\Debug\net5.0\Ejer_06CalculadoraDeAreas.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\bin\Debug\net5.0\Ejer_06CalculadoraDeAreas.runtimeconfig.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\bin\Debug\net5.0\Ejer_06CalculadoraDeAreas.runtimeconfig.dev.json
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\bin\Debug\net5.0\Ejer_06CalculadoraDeAreas.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\bin\Debug\net5.0\ref\Ejer_06CalculadoraDeAreas.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\bin\Debug\net5.0\Ejer_06CalculadoraDeAreas.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\obj\Debug\net5.0\Ejer_06CalculadoraDeAreas.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\obj\Debug\net5.0\Ejer_06CalculadoraDeAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\obj\Debug\net5.0\Ejer_06CalculadoraDeAreas.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\obj\Debug\net5.0\Ejer_06CalculadoraDeAreas.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\obj\Debug\net5.0\Ejer_06CalculadoraDeAreas.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\obj\Debug\net5.0\Ejer_06CalculadoraDeAreas.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\obj\Debug\net5.0\ref\Ejer_06CalculadoraDeAreas.dll
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\obj\Debug\net5.0\Ejer_06CalculadoraDeAreas.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\GuiaDeEjercicios\Ejer_06CalculadoraDeAreas\obj\Debug\net5.0\Ejer_06CalculadoraDeAreas.genruntimeconfig.cache

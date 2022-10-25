@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejer_02_Registro_Formulario/1.0.0": {
+        "dependencies": {
+          "Ejer_02_FormRegistro": "1.0.0"
+        },
+        "runtime": {
+          "Ejer_02_Registro_Formulario.dll": {}
+        }
+      },
+      "Ejer_02_FormRegistro/1.0.0": {
+        "runtime": {
+          "Ejer_02_FormRegistro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejer_02_Registro_Formulario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejer_02_FormRegistro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

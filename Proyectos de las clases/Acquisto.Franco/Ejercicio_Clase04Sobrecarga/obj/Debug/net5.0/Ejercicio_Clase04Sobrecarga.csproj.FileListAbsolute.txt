@@ -1,0 +1,16 @@
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\bin\Debug\net5.0\Ejercicio_Clase04Sobrecarga.exe
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\bin\Debug\net5.0\Ejercicio_Clase04Sobrecarga.deps.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\bin\Debug\net5.0\Ejercicio_Clase04Sobrecarga.runtimeconfig.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\bin\Debug\net5.0\Ejercicio_Clase04Sobrecarga.runtimeconfig.dev.json
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\bin\Debug\net5.0\Ejercicio_Clase04Sobrecarga.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\bin\Debug\net5.0\ref\Ejercicio_Clase04Sobrecarga.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\bin\Debug\net5.0\Ejercicio_Clase04Sobrecarga.pdb
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\obj\Debug\net5.0\Ejercicio_Clase04Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\obj\Debug\net5.0\Ejercicio_Clase04Sobrecarga.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\obj\Debug\net5.0\Ejercicio_Clase04Sobrecarga.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\obj\Debug\net5.0\Ejercicio_Clase04Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\obj\Debug\net5.0\Ejercicio_Clase04Sobrecarga.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\obj\Debug\net5.0\ref\Ejercicio_Clase04Sobrecarga.dll
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\obj\Debug\net5.0\Ejercicio_Clase04Sobrecarga.pdb
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\obj\Debug\net5.0\Ejercicio_Clase04Sobrecarga.genruntimeconfig.cache
+C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Ejercicio_Clase04Sobrecarga\obj\Debug\net5.0\Ejercicio_Clase04Sobrecarga.csproj.AssemblyReference.cache

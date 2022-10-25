@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejer_01Prestamo_Consola/1.0.0": {
+        "dependencies": {
+          "Ejer_01Prestamo": "1.0.0"
+        },
+        "runtime": {
+          "Ejer_01Prestamo_Consola.dll": {}
+        }
+      },
+      "Ejer_01Prestamo/1.0.0": {
+        "runtime": {
+          "Ejer_01Prestamo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejer_01Prestamo_Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejer_01Prestamo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

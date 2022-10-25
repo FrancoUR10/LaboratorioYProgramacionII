@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EjercicioIntegrador_Consola/1.0.0": {
+        "dependencies": {
+          "EjercicioIntegrador": "1.0.0"
+        },
+        "runtime": {
+          "EjercicioIntegrador_Consola.dll": {}
+        }
+      },
+      "EjercicioIntegrador/1.0.0": {
+        "runtime": {
+          "EjercicioIntegrador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioIntegrador_Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EjercicioIntegrador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
