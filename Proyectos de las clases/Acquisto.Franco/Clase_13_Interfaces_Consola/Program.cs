@@ -7,10 +7,14 @@ namespace Clase_13_Interfaces_Consola
     {
         static void Main(string[] args)
         {
+            Avion a1 = new Avion(10, 20);
             Privado avionPrivado = new Privado(50, 100, 10);
-            Comercial avionComercial = new Comercial(70, 80, 25);
-            Console.WriteLine(avionPrivado.CalcularImpuesto());
-            Console.WriteLine(avionComercial.CalcularImpuesto());
+            Comercial avionComercial = new Comercial(10, 20, 25);
+            Console.WriteLine("Avion privado IAFIP: {0}",avionPrivado.Impuesto);
+            Console.WriteLine("Avion Impuesto IAFIP: {0}",a1.Impuesto);
+            Console.WriteLine("Avion Comercial IARBA implicito: {0}",avionComercial.CalcularImpuesto());
+            Console.WriteLine("Avion Comercial IARBA explicito: {0}", ((IARBA)avionComercial).CalcularImpuesto());
+            Console.WriteLine("Avion comercial IAFIP: {0}",((IAFIP)avionComercial).CalcularImpuesto());
             Console.ReadKey();
         }
     }

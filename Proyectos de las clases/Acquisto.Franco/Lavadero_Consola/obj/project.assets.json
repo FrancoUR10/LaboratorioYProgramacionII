@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\franc\\.nuget\\packages\\": {}
+    "C:\\Users\\alumno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Lavadero_Consola\\Lavadero_Consola.csproj",
+      "projectUniqueName": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Lavadero_Consola\\Lavadero_Consola.csproj",
       "projectName": "Lavadero_Consola",
-      "projectPath": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Lavadero_Consola\\Lavadero_Consola.csproj",
-      "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Lavadero_Consola\\obj\\",
+      "projectPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Lavadero_Consola\\Lavadero_Consola.csproj",
+      "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Lavadero_Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Lavadero\\Ejer_Lavadero.csproj": {
-              "projectPath": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Lavadero\\Ejer_Lavadero.csproj"
+            "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Lavadero\\Ejer_Lavadero.csproj": {
+              "projectPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Lavadero\\Ejer_Lavadero.csproj"
             }
           }
         }
@@ -74,7 +74,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -83,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

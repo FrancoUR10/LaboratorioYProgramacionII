@@ -17,3 +17,22 @@ C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase
 C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\ref\Clase_13_Interfaces_Consola.dll
 C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\Clase_13_Interfaces_Consola.pdb
 C:\Programacion y laboratorio 2 proyectos\Proyectos clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\Clase_13_Interfaces_Consola.genruntimeconfig.cache
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\bin\Debug\net5.0\Clase_13_Interfaces_Consola.exe
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\bin\Debug\net5.0\Clase_13_Interfaces_Consola.deps.json
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\bin\Debug\net5.0\Clase_13_Interfaces_Consola.runtimeconfig.json
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\bin\Debug\net5.0\Clase_13_Interfaces_Consola.runtimeconfig.dev.json
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\bin\Debug\net5.0\Clase_13_Interfaces_Consola.dll
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\bin\Debug\net5.0\Clase_13_Interfaces_Consola.pdb
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\bin\Debug\net5.0\Clase_13_Ejercicio_Interfaces.dll
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\bin\Debug\net5.0\Clase_13_Ejercicio_Interfaces.pdb
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\Clase_13_Interfaces_Consola.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\Clase_13_Interfaces_Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\Clase_13_Interfaces_Consola.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\Clase_13_Interfaces_Consola.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\Clase_13_Interfaces_Consola.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\Clase_13_Interfaces_Consola.csproj.CopyComplete
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\Clase_13_Interfaces_Consola.dll
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\refint\Clase_13_Interfaces_Consola.dll
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\Clase_13_Interfaces_Consola.pdb
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\Clase_13_Interfaces_Consola.genruntimeconfig.cache
+C:\Users\alumno\Desktop\Mi Repositorio\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Clase_13_Interfaces_Consola\obj\Debug\net5.0\ref\Clase_13_Interfaces_Consola.dll

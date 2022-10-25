@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Clase_13_Interfaces_Consola\\Clase_13_Interfaces_Consola.csproj": {}
+    "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_13_Interfaces_Consola\\Clase_13_Interfaces_Consola.csproj": {}
   },
   "projects": {
-    "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Clase_13_Ejercicio_Interfaces\\Clase_13_Ejercicio_Interfaces.csproj": {
+    "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_13_Ejercicio_Interfaces\\Clase_13_Ejercicio_Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Clase_13_Ejercicio_Interfaces\\Clase_13_Ejercicio_Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_13_Ejercicio_Interfaces\\Clase_13_Ejercicio_Interfaces.csproj",
         "projectName": "Clase_13_Ejercicio_Interfaces",
-        "projectPath": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Clase_13_Ejercicio_Interfaces\\Clase_13_Ejercicio_Interfaces.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Clase_13_Ejercicio_Interfaces\\obj\\",
+        "projectPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_13_Ejercicio_Interfaces\\Clase_13_Ejercicio_Interfaces.csproj",
+        "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_13_Ejercicio_Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,21 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Clase_13_Interfaces_Consola\\Clase_13_Interfaces_Consola.csproj": {
+    "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_13_Interfaces_Consola\\Clase_13_Interfaces_Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Clase_13_Interfaces_Consola\\Clase_13_Interfaces_Consola.csproj",
+        "projectUniqueName": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_13_Interfaces_Consola\\Clase_13_Interfaces_Consola.csproj",
         "projectName": "Clase_13_Interfaces_Consola",
-        "projectPath": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Clase_13_Interfaces_Consola\\Clase_13_Interfaces_Consola.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Clase_13_Interfaces_Consola\\obj\\",
+        "projectPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_13_Interfaces_Consola\\Clase_13_Interfaces_Consola.csproj",
+        "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_13_Interfaces_Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +83,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Clase_13_Ejercicio_Interfaces\\Clase_13_Ejercicio_Interfaces.csproj": {
-                "projectPath": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\Clase_13_Ejercicio_Interfaces\\Clase_13_Ejercicio_Interfaces.csproj"
+              "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_13_Ejercicio_Interfaces\\Clase_13_Ejercicio_Interfaces.csproj": {
+                "projectPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_13_Ejercicio_Interfaces\\Clase_13_Ejercicio_Interfaces.csproj"
               }
             }
           }
@@ -103,16 +104,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

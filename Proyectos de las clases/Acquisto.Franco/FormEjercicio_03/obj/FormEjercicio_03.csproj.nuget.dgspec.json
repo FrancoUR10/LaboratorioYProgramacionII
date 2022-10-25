@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\FormEjercicio_03\\FormEjercicio_03.csproj": {}
+    "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\FormEjercicio_03\\FormEjercicio_03.csproj": {}
   },
   "projects": {
-    "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\FormEjercicio_03\\FormEjercicio_03.csproj": {
+    "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\FormEjercicio_03\\FormEjercicio_03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\FormEjercicio_03\\FormEjercicio_03.csproj",
+        "projectUniqueName": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\FormEjercicio_03\\FormEjercicio_03.csproj",
         "projectName": "FormEjercicio_03",
-        "projectPath": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\FormEjercicio_03\\FormEjercicio_03.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion y laboratorio 2 proyectos\\Proyectos clases\\Acquisto.Franco\\FormEjercicio_03\\obj\\",
+        "projectPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\FormEjercicio_03\\FormEjercicio_03.csproj",
+        "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\FormEjercicio_03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
