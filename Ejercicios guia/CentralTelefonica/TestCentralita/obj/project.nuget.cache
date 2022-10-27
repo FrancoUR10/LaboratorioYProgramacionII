@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1xVpYtfkmG3h8U68VCGnyN8+cEc9HZHocndOgkms0XH5NBzHwjh/sQsvt+i4b1aSinco9NoTJwxC9QncAWvnqg==",
+  "dgSpecHash": "is344T4Oo0PqheMTlm022ZT6+4M395v5yoa7vCHrurpGbxpQIAitQEi5JyUVfyIddJ+K/bg9vCswQDQ96W8XIA==",
   "success": true,
-  "projectFilePath": "C:\\Programacion y laboratorio 2 proyectos\\Ejercicios guia\\CentralTelefonica\\TestCentralita\\TestCentralita.csproj",
+  "projectFilePath": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Ejercicios guia\\CentralTelefonica\\TestCentralita\\TestCentralita.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franc\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\franc\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

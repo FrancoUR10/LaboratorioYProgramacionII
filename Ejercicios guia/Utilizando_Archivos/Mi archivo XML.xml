@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persona>
+    <Nombre>Franco</Nombre>
+    <Apellido>Acquisto</Apellido>
+    <Edad>24</Edad>
+    <Nacionalidad>Argentina</Nacionalidad>
+  </Persona>
+  <Persona>
+    <Nombre>Jorge</Nombre>
+    <Apellido>Alejandro</Apellido>
+    <Edad>21</Edad>
+    <Nacionalidad>Chilena</Nacionalidad>
+  </Persona>
+  <Persona>
+    <Nombre>Juan</Nombre>
+    <Apellido>Cruz</Apellido>
+    <Edad>20</Edad>
+    <Nacionalidad>Uruguaya</Nacionalidad>
+  </Persona>
+</ArrayOfPersona>

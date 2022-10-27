@@ -1,0 +1,3 @@
+Mi nombre: Franco - Mi apellido: Acquisto - Mi edad: 24 - Mi nacionalidad: Argentina
+Mi nombre: Jorge - Mi apellido: Alejandro - Mi edad: 21 - Mi nacionalidad: Chilena
+Mi nombre: Juan - Mi apellido: Cruz - Mi edad: 20 - Mi nacionalidad: Uruguaya

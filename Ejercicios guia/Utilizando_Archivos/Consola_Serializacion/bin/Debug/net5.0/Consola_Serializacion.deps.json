@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Consola_Serializacion/1.0.0": {
+        "dependencies": {
+          "MisDatosEnArchivos": "1.0.0"
+        },
+        "runtime": {
+          "Consola_Serializacion.dll": {}
+        }
+      },
+      "MisDatosEnArchivos/1.0.0": {
+        "runtime": {
+          "MisDatosEnArchivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola_Serializacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MisDatosEnArchivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

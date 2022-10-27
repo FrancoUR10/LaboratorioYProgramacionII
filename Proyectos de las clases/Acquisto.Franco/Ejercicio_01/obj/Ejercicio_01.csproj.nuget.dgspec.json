@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_01\\Ejercicio_01.csproj": {}
+    "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_01\\Ejercicio_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_01\\Ejercicio_01.csproj": {
+    "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_01\\Ejercicio_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_01\\Ejercicio_01.csproj",
+        "projectUniqueName": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_01\\Ejercicio_01.csproj",
         "projectName": "Ejercicio_01",
-        "projectPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_01\\Ejercicio_01.csproj",
-        "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_01\\obj\\",
+        "projectPath": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_01\\Ejercicio_01.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }

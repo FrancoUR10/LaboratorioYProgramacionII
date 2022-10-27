@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacion y laboratorio 2 proyectos\\Ejercicios guia\\CentralTelefonica\\Centralita\\Centralita.csproj": {}
+    "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Ejercicios guia\\CentralTelefonica\\Centralita\\Centralita.csproj": {}
   },
   "projects": {
-    "C:\\Programacion y laboratorio 2 proyectos\\Ejercicios guia\\CentralTelefonica\\Centralita\\Centralita.csproj": {
+    "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Ejercicios guia\\CentralTelefonica\\Centralita\\Centralita.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion y laboratorio 2 proyectos\\Ejercicios guia\\CentralTelefonica\\Centralita\\Centralita.csproj",
+        "projectUniqueName": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Ejercicios guia\\CentralTelefonica\\Centralita\\Centralita.csproj",
         "projectName": "Centralita",
-        "projectPath": "C:\\Programacion y laboratorio 2 proyectos\\Ejercicios guia\\CentralTelefonica\\Centralita\\Centralita.csproj",
+        "projectPath": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Ejercicios guia\\CentralTelefonica\\Centralita\\Centralita.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion y laboratorio 2 proyectos\\Ejercicios guia\\CentralTelefonica\\Centralita\\obj\\",
+        "outputPath": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Ejercicios guia\\CentralTelefonica\\Centralita\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",

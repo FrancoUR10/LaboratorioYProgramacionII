@@ -10,3 +10,15 @@ C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\CentralTelefonica\Cent
 C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.dll
 C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\CentralTelefonica\Centralita\obj\Debug\net5.0\ref\Centralita.dll
 C:\Programacion y laboratorio 2 proyectos\Ejercicios guia\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.pdb
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\CentralTelefonica\Centralita\bin\Debug\net5.0\Centralita.deps.json
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\CentralTelefonica\Centralita\bin\Debug\net5.0\Centralita.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\CentralTelefonica\Centralita\bin\Debug\net5.0\ref\Centralita.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\CentralTelefonica\Centralita\bin\Debug\net5.0\Centralita.pdb
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\CentralTelefonica\Centralita\obj\Debug\net5.0\ref\Centralita.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.pdb

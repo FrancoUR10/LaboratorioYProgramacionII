@@ -39,10 +39,10 @@ namespace FormsCentralita
             this.btn8 = new System.Windows.Forms.Button();
             this.btn7 = new System.Windows.Forms.Button();
             this.btn6 = new System.Windows.Forms.Button();
+            this.btn2 = new System.Windows.Forms.Button();
+            this.btn3 = new System.Windows.Forms.Button();
             this.btn5 = new System.Windows.Forms.Button();
             this.btn4 = new System.Windows.Forms.Button();
-            this.btn3 = new System.Windows.Forms.Button();
-            this.btn2 = new System.Windows.Forms.Button();
             this.btn1 = new System.Windows.Forms.Button();
             this.btnLlamar = new System.Windows.Forms.Button();
             this.btnLimpiar = new System.Windows.Forms.Button();
@@ -65,7 +65,7 @@ namespace FormsCentralita
             this.txtOrigen.Location = new System.Drawing.Point(168, 170);
             this.txtOrigen.Name = "txtOrigen";
             this.txtOrigen.Size = new System.Drawing.Size(159, 23);
-            this.txtOrigen.TabIndex = 1;
+            this.txtOrigen.TabIndex = 2;
             this.txtOrigen.Text = "Nro Origen";
             // 
             // grpNumeros
@@ -77,10 +77,10 @@ namespace FormsCentralita
             this.grpNumeros.Controls.Add(this.btn8);
             this.grpNumeros.Controls.Add(this.btn7);
             this.grpNumeros.Controls.Add(this.btn6);
+            this.grpNumeros.Controls.Add(this.btn2);
+            this.grpNumeros.Controls.Add(this.btn3);
             this.grpNumeros.Controls.Add(this.btn5);
             this.grpNumeros.Controls.Add(this.btn4);
-            this.grpNumeros.Controls.Add(this.btn3);
-            this.grpNumeros.Controls.Add(this.btn2);
             this.grpNumeros.Controls.Add(this.btn1);
             this.grpNumeros.Location = new System.Drawing.Point(22, 56);
             this.grpNumeros.Name = "grpNumeros";
@@ -153,6 +153,24 @@ namespace FormsCentralita
             this.btn6.Text = "6";
             this.btn6.UseVisualStyleBackColor = true;
             // 
+            // btn2
+            // 
+            this.btn2.Location = new System.Drawing.Point(47, 23);
+            this.btn2.Name = "btn2";
+            this.btn2.Size = new System.Drawing.Size(35, 34);
+            this.btn2.TabIndex = 1;
+            this.btn2.Text = "2";
+            this.btn2.UseVisualStyleBackColor = true;
+            // 
+            // btn3
+            // 
+            this.btn3.Location = new System.Drawing.Point(88, 23);
+            this.btn3.Name = "btn3";
+            this.btn3.Size = new System.Drawing.Size(35, 34);
+            this.btn3.TabIndex = 2;
+            this.btn3.Text = "3";
+            this.btn3.UseVisualStyleBackColor = true;
+            // 
             // btn5
             // 
             this.btn5.Location = new System.Drawing.Point(47, 63);
@@ -171,30 +189,13 @@ namespace FormsCentralita
             this.btn4.Text = "4";
             this.btn4.UseVisualStyleBackColor = true;
             // 
-            // btn3
-            // 
-            this.btn3.Location = new System.Drawing.Point(88, 23);
-            this.btn3.Name = "btn3";
-            this.btn3.Size = new System.Drawing.Size(35, 34);
-            this.btn3.TabIndex = 2;
-            this.btn3.Text = "3";
-            this.btn3.UseVisualStyleBackColor = true;
-            // 
-            // btn2
-            // 
-            this.btn2.Location = new System.Drawing.Point(47, 23);
-            this.btn2.Name = "btn2";
-            this.btn2.Size = new System.Drawing.Size(35, 34);
-            this.btn2.TabIndex = 1;
-            this.btn2.Text = "2";
-            this.btn2.UseVisualStyleBackColor = true;
-            // 
             // btn1
             // 
             this.btn1.Location = new System.Drawing.Point(6, 22);
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(35, 35);
             this.btn1.TabIndex = 0;
+            this.btn1.TabStop = false;
             this.btn1.Text = "1";
             this.btn1.UseVisualStyleBackColor = true;
             // 
@@ -203,7 +204,7 @@ namespace FormsCentralita
             this.btnLlamar.Location = new System.Drawing.Point(168, 79);
             this.btnLlamar.Name = "btnLlamar";
             this.btnLlamar.Size = new System.Drawing.Size(159, 36);
-            this.btnLlamar.TabIndex = 3;
+            this.btnLlamar.TabIndex = 0;
             this.btnLlamar.Text = "Llamar";
             this.btnLlamar.UseVisualStyleBackColor = true;
             this.btnLlamar.Click += new System.EventHandler(this.btnLlamar_Click);
@@ -213,7 +214,7 @@ namespace FormsCentralita
             this.btnLimpiar.Location = new System.Drawing.Point(168, 121);
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(159, 41);
-            this.btnLimpiar.TabIndex = 4;
+            this.btnLimpiar.TabIndex = 1;
             this.btnLimpiar.Text = "Limpiar";
             this.btnLimpiar.UseVisualStyleBackColor = true;
             this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
@@ -223,7 +224,7 @@ namespace FormsCentralita
             this.btnSalir.Location = new System.Drawing.Point(168, 199);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(159, 36);
-            this.btnSalir.TabIndex = 5;
+            this.btnSalir.TabIndex = 3;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
@@ -235,7 +236,7 @@ namespace FormsCentralita
             this.cmbFranja.Location = new System.Drawing.Point(22, 252);
             this.cmbFranja.Name = "cmbFranja";
             this.cmbFranja.Size = new System.Drawing.Size(305, 23);
-            this.cmbFranja.TabIndex = 6;
+            this.cmbFranja.TabIndex = 4;
             // 
             // FrmLlamador
             // 

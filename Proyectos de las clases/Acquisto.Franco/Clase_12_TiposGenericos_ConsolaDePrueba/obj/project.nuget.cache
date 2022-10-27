@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vKqoAOM7yIMTI+6gUOFOVDUYww1PghdZq5A+8TW7sVnLuBEiU+h2rCZALNtAOrDw1jpxpLt0QLs6Ao6wmiVj+Q==",
+  "dgSpecHash": "nVYRSl8/+pVG3hKeI7qbAwYWfmXD3P/LC/YgTxflmRVLbTNViNX2+SNCUbwIt37PV/w+3kjFsUUKcJ/6D6XE2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_12_TiposGenericos_ConsolaDePrueba\\Clase_12_TiposGenericos_ConsolaDePrueba.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\alumno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\alumno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\alumno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\alumno\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_12_TiposGenericos_ConsolaDePrueba\\Clase_12_TiposGenericos_ConsolaDePrueba.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

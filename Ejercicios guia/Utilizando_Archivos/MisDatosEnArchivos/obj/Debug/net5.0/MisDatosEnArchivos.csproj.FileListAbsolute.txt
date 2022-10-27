@@ -1,0 +1,12 @@
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Utilizando_Archivos\MisDatosEnArchivos\bin\Debug\net5.0\MisDatosEnArchivos.deps.json
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Utilizando_Archivos\MisDatosEnArchivos\bin\Debug\net5.0\MisDatosEnArchivos.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Utilizando_Archivos\MisDatosEnArchivos\bin\Debug\net5.0\ref\MisDatosEnArchivos.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Utilizando_Archivos\MisDatosEnArchivos\bin\Debug\net5.0\MisDatosEnArchivos.pdb
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Utilizando_Archivos\MisDatosEnArchivos\obj\Debug\net5.0\MisDatosEnArchivos.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Utilizando_Archivos\MisDatosEnArchivos\obj\Debug\net5.0\MisDatosEnArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Utilizando_Archivos\MisDatosEnArchivos\obj\Debug\net5.0\MisDatosEnArchivos.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Utilizando_Archivos\MisDatosEnArchivos\obj\Debug\net5.0\MisDatosEnArchivos.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Utilizando_Archivos\MisDatosEnArchivos\obj\Debug\net5.0\MisDatosEnArchivos.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Utilizando_Archivos\MisDatosEnArchivos\obj\Debug\net5.0\MisDatosEnArchivos.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Utilizando_Archivos\MisDatosEnArchivos\obj\Debug\net5.0\ref\MisDatosEnArchivos.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Utilizando_Archivos\MisDatosEnArchivos\obj\Debug\net5.0\MisDatosEnArchivos.pdb

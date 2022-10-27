@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L3LMZcILXmOFPYty0Q36KfOFnH/Q9d0JSnpVjb2j++6jIx0AeRlWSaEEkXuFwqt4i+xz4vvHHJMW1IUUfcJaHg==",
+  "dgSpecHash": "01/b9yxWZ9RU6HBsTbOFXu2mSwdQrj2T/jsNW+ZTUEfRHIA8Umk4wcydc/R5W5ufoh3sy4uBkYVRpjRLJsCFQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\FormEjercicio_02\\FormEjercicio_02.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\alumno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\alumno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\alumno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\alumno\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\FormEjercicio_02\\FormEjercicio_02.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

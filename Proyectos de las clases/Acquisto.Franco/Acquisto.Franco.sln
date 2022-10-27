@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase_12_TiposGenericos_Con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase_13_Ejercicio_Interfaces", "Clase_13_Ejercicio_Interfaces\Clase_13_Ejercicio_Interfaces.csproj", "{47703499-00D8-426F-A00B-E10CDC72BF6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase_13_Interfaces_Consola", "Clase_13_Interfaces_Consola\Clase_13_Interfaces_Consola.csproj", "{8B74041C-DAAD-4A9C-A258-A9B4CD0A2582}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase_13_Interfaces_Consola", "Clase_13_Interfaces_Consola\Clase_13_Interfaces_Consola.csproj", "{8B74041C-DAAD-4A9C-A258-A9B4CD0A2582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase_16_BaseDeDatos", "Clase_16_BaseDeDatos\Clase_16_BaseDeDatos.csproj", "{DC4F7495-453A-4455-AA33-75EF3F02E80E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{8B74041C-DAAD-4A9C-A258-A9B4CD0A2582}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B74041C-DAAD-4A9C-A258-A9B4CD0A2582}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B74041C-DAAD-4A9C-A258-A9B4CD0A2582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4F7495-453A-4455-AA33-75EF3F02E80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4F7495-453A-4455-AA33-75EF3F02E80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4F7495-453A-4455-AA33-75EF3F02E80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4F7495-453A-4455-AA33-75EF3F02E80E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

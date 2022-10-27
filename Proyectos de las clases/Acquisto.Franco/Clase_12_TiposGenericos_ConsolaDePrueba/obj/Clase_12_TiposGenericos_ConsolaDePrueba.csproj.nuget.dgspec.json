@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_12_TiposGenericos_ConsolaDePrueba\\Clase_12_TiposGenericos_ConsolaDePrueba.csproj": {}
+    "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_12_TiposGenericos_ConsolaDePrueba\\Clase_12_TiposGenericos_ConsolaDePrueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_12_TiposGenericos_ConsolaDePrueba\\Clase_12_TiposGenericos_ConsolaDePrueba.csproj": {
+    "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_12_TiposGenericos_ConsolaDePrueba\\Clase_12_TiposGenericos_ConsolaDePrueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_12_TiposGenericos_ConsolaDePrueba\\Clase_12_TiposGenericos_ConsolaDePrueba.csproj",
+        "projectUniqueName": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_12_TiposGenericos_ConsolaDePrueba\\Clase_12_TiposGenericos_ConsolaDePrueba.csproj",
         "projectName": "Clase_12_TiposGenericos_ConsolaDePrueba",
-        "projectPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_12_TiposGenericos_ConsolaDePrueba\\Clase_12_TiposGenericos_ConsolaDePrueba.csproj",
-        "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_12_TiposGenericos_ConsolaDePrueba\\obj\\",
+        "projectPath": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_12_TiposGenericos_ConsolaDePrueba\\Clase_12_TiposGenericos_ConsolaDePrueba.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Clase_12_TiposGenericos_ConsolaDePrueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_Clase12_TiposGenericos\\Ejercicio_Clase12_TiposGenericos.csproj": {
-                "projectPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_Clase12_TiposGenericos\\Ejercicio_Clase12_TiposGenericos.csproj"
+              "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_Clase12_TiposGenericos\\Ejercicio_Clase12_TiposGenericos.csproj": {
+                "projectPath": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_Clase12_TiposGenericos\\Ejercicio_Clase12_TiposGenericos.csproj"
               }
             }
           }
@@ -49,49 +49,30 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_Clase12_TiposGenericos\\Ejercicio_Clase12_TiposGenericos.csproj": {
+    "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_Clase12_TiposGenericos\\Ejercicio_Clase12_TiposGenericos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_Clase12_TiposGenericos\\Ejercicio_Clase12_TiposGenericos.csproj",
+        "projectUniqueName": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_Clase12_TiposGenericos\\Ejercicio_Clase12_TiposGenericos.csproj",
         "projectName": "Ejercicio_Clase12_TiposGenericos",
-        "projectPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_Clase12_TiposGenericos\\Ejercicio_Clase12_TiposGenericos.csproj",
-        "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alumno\\Desktop\\Mi Repositorio\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_Clase12_TiposGenericos\\obj\\",
+        "projectPath": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_Clase12_TiposGenericos\\Ejercicio_Clase12_TiposGenericos.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Programacion y laboratorio 2 proyectos\\LaboratorioYProgramacionII\\Proyectos de las clases\\Acquisto.Franco\\Ejercicio_Clase12_TiposGenericos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -122,8 +103,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -132,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }
