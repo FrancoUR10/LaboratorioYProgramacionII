@@ -1,0 +1,50 @@
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\Consola_ADO.exe
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\Consola_ADO.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\Consola_ADO.runtimeconfig.json
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\Consola_ADO.runtimeconfig.dev.json
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\Consola_ADO.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\ref\Consola_ADO.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\Consola_ADO.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\BaseDeDatos.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\BaseDeDatos.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.csproj.CopyComplete
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\ref\Consola_ADO.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.genruntimeconfig.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\Consola_ADO.exe
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\Consola_ADO.deps.json
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\Consola_ADO.runtimeconfig.json
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\Consola_ADO.runtimeconfig.dev.json
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\Consola_ADO.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\ref\Consola_ADO.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\Consola_ADO.pdb
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\BaseDeDatos.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\bin\Debug\net5.0\BaseDeDatos.pdb
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.csproj.CopyComplete
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\ref\Consola_ADO.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.pdb
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\Consola_ADO\obj\Debug\net5.0\Consola_ADO.genruntimeconfig.cache

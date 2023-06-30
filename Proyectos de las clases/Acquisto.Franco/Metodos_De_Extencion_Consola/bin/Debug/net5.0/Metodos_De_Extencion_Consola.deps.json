@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Metodos_De_Extencion_Consola/1.0.0": {
+        "dependencies": {
+          "Metodos_De_Extension": "1.0.0"
+        },
+        "runtime": {
+          "Metodos_De_Extencion_Consola.dll": {}
+        }
+      },
+      "Metodos_De_Extension/1.0.0": {
+        "runtime": {
+          "Metodos_De_Extension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metodos_De_Extencion_Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Metodos_De_Extension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

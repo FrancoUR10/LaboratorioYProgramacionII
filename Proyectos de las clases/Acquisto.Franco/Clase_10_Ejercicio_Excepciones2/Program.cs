@@ -19,6 +19,8 @@ namespace Clase_10_Ejercicio_Excepciones_2
                 catch(MiPropiaExcepcion excepcionAMostrar) 
                 {
                     Console.WriteLine("Mensaje de mi excepción: {0}", excepcionAMostrar.Mensaje);
+                    Console.WriteLine("Mensaje original de exception: {0}", excepcionAMostrar.Message);
+                    Console.WriteLine("Stack: {0}", excepcionAMostrar.StackTrace);
                 }
             }
 

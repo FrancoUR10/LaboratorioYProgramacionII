@@ -1,0 +1,12 @@
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Metodos_De_Extension\bin\Debug\net5.0\Metodos_De_Extension.deps.json
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Metodos_De_Extension\bin\Debug\net5.0\Metodos_De_Extension.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Metodos_De_Extension\bin\Debug\net5.0\ref\Metodos_De_Extension.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Metodos_De_Extension\bin\Debug\net5.0\Metodos_De_Extension.pdb
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Metodos_De_Extension\obj\Debug\net5.0\Metodos_De_Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Metodos_De_Extension\obj\Debug\net5.0\Metodos_De_Extension.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Metodos_De_Extension\obj\Debug\net5.0\Metodos_De_Extension.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Metodos_De_Extension\obj\Debug\net5.0\Metodos_De_Extension.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Metodos_De_Extension\obj\Debug\net5.0\Metodos_De_Extension.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Metodos_De_Extension\obj\Debug\net5.0\ref\Metodos_De_Extension.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Metodos_De_Extension\obj\Debug\net5.0\Metodos_De_Extension.pdb
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Proyectos de las clases\Acquisto.Franco\Metodos_De_Extension\obj\Debug\net5.0\Metodos_De_Extension.csproj.AssemblyReference.cache

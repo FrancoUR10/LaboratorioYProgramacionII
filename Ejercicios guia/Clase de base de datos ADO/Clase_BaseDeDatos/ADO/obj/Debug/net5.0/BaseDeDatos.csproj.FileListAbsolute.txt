@@ -1,0 +1,24 @@
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\bin\Debug\net5.0\BaseDeDatos.deps.json
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\bin\Debug\net5.0\BaseDeDatos.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\bin\Debug\net5.0\ref\BaseDeDatos.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\bin\Debug\net5.0\BaseDeDatos.pdb
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\ref\BaseDeDatos.dll
+C:\Programacion y laboratorio 2 proyectos\Ejemplos vistos en clase\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.pdb
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\bin\Debug\net5.0\BaseDeDatos.deps.json
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\bin\Debug\net5.0\BaseDeDatos.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\bin\Debug\net5.0\ref\BaseDeDatos.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\bin\Debug\net5.0\BaseDeDatos.pdb
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.csproj.AssemblyReference.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.AssemblyInfoInputs.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.AssemblyInfo.cs
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\ref\BaseDeDatos.dll
+C:\Programacion y laboratorio 2 proyectos\LaboratorioYProgramacionII\Ejercicios guia\Clase de base de datos ADO\Clase_BaseDeDatos\ADO\obj\Debug\net5.0\BaseDeDatos.pdb
